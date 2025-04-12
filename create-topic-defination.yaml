@@ -1,4 +1,4 @@
 topics:
-  - name: test02
-    partitions: 10
+  - name: test03
+    partitions: 7
     replicationFactor: 1
